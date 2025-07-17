@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "status": "ClOSED",
+        "title": "Design UI",
+        "user": "user1"
+    },
+    {
+        "id": 2,
+        "status": "OPEN",
+        "title": "Write tests",
+        "user": "user1"
+    },
+    {
+        "id": 3,
+        "status": "OPEN",
+        "title": "Dev Task 2",
+        "user": "dev"
+    },
+    {
+        "id": 4,
+        "status": "ClOSED",
+        "title": "Task10",
+        "user": "user1"
+    },
+    {
+        "id": 5,
+        "status": "IN_PROGRESS",
+        "title": "Fix Bugs",
+        "user": "user1"
+    },
+    {
+        "id": 6,
+        "status": "OPEN",
+        "title": "Task 2",
+        "user": "user1"
+    },
+    {
+        "id": 7,
+        "status": "ClOSED",
+        "title": "Task 3",
+        "user": "dev"
+    }
+]
